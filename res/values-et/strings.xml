@@ -19,10 +19,10 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="wallpapers" msgid="7646602778647576267">"Hình nền Kiểu trực quan cho Nhạc"</string>
+    <string name="wallpapers" msgid="7646602778647576267">"Muusika visualiseerimise taustapildid"</string>
     <string name="author" msgid="6199067265817633685">"Google"</string>
-    <string name="vis2_desc" msgid="192540837551311681">"Vẽ làn sóng âm thanh của bất kỳ bản nhạc đang phát nào."</string>
-    <string name="vis3_desc" msgid="3878566533630652215">"Hiển thị phổ tần số của bất kỳ bản nhạc đang phát nào."</string>
-    <string name="vis4_desc" msgid="2752246332053894804">"Mô phỏng đồng hồ đo âm thanh dạng tương tự."</string>
-    <string name="vis5_desc" msgid="4777817231155032917">"Tất cả hình ảnh hóa nhạc với nhau, xoay chậm trong 3D."</string>
+    <string name="vis2_desc" msgid="192540837551311681">"Joonistab praegu esitusel oleva muusikapala helilaine."</string>
+    <string name="vis3_desc" msgid="3878566533630652215">"Kuvab praegu esitusel oleva muusikapala sagedusspektri."</string>
+    <string name="vis4_desc" msgid="2752246332053894804">"Simuleerib analooghelimõõtjat"</string>
+    <string name="vis5_desc" msgid="4777817231155032917">"Kõik muusika visualiseerimised koos, pöörlevad aeglaselt 3D-s"</string>
 </resources>

@@ -19,10 +19,9 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="wallpapers" msgid="7646602778647576267">"Hình nền Kiểu trực quan cho Nhạc"</string>
-    <string name="author" msgid="6199067265817633685">"Google"</string>
-    <string name="vis2_desc" msgid="192540837551311681">"Vẽ làn sóng âm thanh của bất kỳ bản nhạc đang phát nào."</string>
-    <string name="vis3_desc" msgid="3878566533630652215">"Hiển thị phổ tần số của bất kỳ bản nhạc đang phát nào."</string>
-    <string name="vis4_desc" msgid="2752246332053894804">"Mô phỏng đồng hồ đo âm thanh dạng tương tự."</string>
-    <string name="vis5_desc" msgid="4777817231155032917">"Tất cả hình ảnh hóa nhạc với nhau, xoay chậm trong 3D."</string>
+    <string name="wallpaper_vis1" msgid="1638523041121667391">"Visualiseerija"</string>
+    <string name="wallpaper_vis2" msgid="4565736588102466989">"Helilaine"</string>
+    <string name="wallpaper_vis3" msgid="3007445671726137442">"Spekter"</string>
+    <string name="wallpaper_vis4" msgid="6050134144984656120">"VU-mõõtja"</string>
+    <string name="wallpaper_vis5" msgid="6639280366165624426">"Palju"</string>
 </resources>
